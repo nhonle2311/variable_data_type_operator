@@ -8,4 +8,3 @@ function transform(){
 
     if (!currency) alert('Please input currency');
     resultElement.value = currency / from * to;
-}
